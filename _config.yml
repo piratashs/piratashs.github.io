@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://piratashs.github.io
+title: Piratas Hackspace
+tagline: Melhor ser pirata, do que marinheiro...
+description: Um hackspace para os piratas da internet!
+paginate: 3
